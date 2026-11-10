@@ -1,0 +1,1 @@
+print("Bu fayda Ravshanbek ishlaydi !")
